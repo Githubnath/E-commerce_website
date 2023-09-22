@@ -1,12 +1,12 @@
-E-Commerce MERN Stack
 
-![E-Commerce MERN STACK](https://i.imgur.com/LZafZ91.png)
+
+![E-Commerce MERN STACK](https://i.imgur.com/LZafZ91.)
 
 
 
 Description
 
-This open-source e-commerce project is built using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a robust and scalable platform for launching your online store, complete with user authentication, product management, shopping cart functionality, secure payment processing, and more. Whether you're an aspiring developer or an experienced pro, this project serves as an excellent foundation for diving into full-stack web development with the MERN stack.
+This open-source e-commerce project is built using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a strong  platform for launching your online store, complete with user authentication, product management, shopping cart functionality, secure payment processing, and more. Whether you're an aspiring developer or an experienced pro, this project serves as an excellent foundation for diving into full-stack web development with the MERN stack.
 
 
 Purpose
@@ -158,19 +158,13 @@ Here are some potential improvements for the project:
 
 Author
 
-    Salome Bassey.
+    Emenike Nathaniel
 
-Social Handles
+Contacts:
 
-GitHub: https://github.com/lomsey41
-Twitter: http://www.twitter.com/lomsey41
-LinkedIn:  http://www.linkedin.com/in/salome-bassey
+GitHub: https://github.com/githubnath
+Twitter: http://www.twitter.com/EngrNath3
 
-
-
-Acknowledgment
-
-Special thanks to [NATHANIEL EMENIKE: For his Technical Support].
 
 
 
