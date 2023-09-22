@@ -1,7 +1,11 @@
-# HEIN.
+# NATH's ONLINE SHOPPING SITE (MERN).
 
-Ecommerce Web Application built with the MERN Stack.
-Inspired by [_Lama Dev_](https://www.youtube.com/c/LamaDev)
+This is a full-stack  e-commerce website built with the MERN Stack (MongoDB, Express.js, React.js, Node.js) Key features include: user authentication, product listing, shopping cart and secured  payment processing.
+
+E-Commerce MERN Stack
+
+
+
 
 ## 🏁 Get Started
 
