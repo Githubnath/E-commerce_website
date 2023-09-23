@@ -1,6 +1,7 @@
 # NATH's ONLINE SHOPPING SITE (MERN).
 
-This is a full-stack  e-commerce website built with the MERN (MongoDB, Express.js, React.js, Node.js) Stack  Key features include: user authentication, product listing, shopping cart and secured  payment processing.
+This is a full-stack  e-commerce website built with the MERN (MongoDB, Express.js, React.js, Node.js) Stack.
+ Key features include: user authentication, product listing, shopping cart and a secured  payment processing.
 
 E-Commerce MERN Stack
 
