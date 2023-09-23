@@ -27,7 +27,7 @@ This is a full-stack  e-commerce website built with the MERN (MongoDB, Express.j
 - [License](#license)
 - [Contribution](#contribution)
 - [Questions](#questions)
-- [File-Structure](#File-Structure)
+- [File Structure](#File-Structure)
 
 
 
@@ -214,22 +214,6 @@ Become expert in Deploying a MERN stack application to a hosting provider.
         `-- user.js
 ```
 
-###  📷 Preview
-
-- ### Large Screens
-  ![large screens](ss/large/hom)
-  <br>
-  ![large screens](ss/large/productcategorie.pg)
-  <br>
-  ![large screens](ss/large/singleproduc png)
-  <br>
-  ![large screens](ss/large/shoppingcart.pg)
-  <br>
-  ![large screens](ss/large/signup.ng)
-  <br>
-  ![large screens](ss/large/login.pn)
-
-
 
 <h3> Demo</h3>
 <hr>
@@ -238,9 +222,7 @@ Become expert in Deploying a MERN stack application to a hosting provider.
 <ul>
 
 
-
-#### Preview
-
+###  📷 Preview
 
 
 - Home Page <br>
@@ -253,20 +235,18 @@ Become expert in Deploying a MERN stack application to a hosting provider.
   ![Screenshot](./client/src/assets/screenshots/2.pg)
 
 
-
-
-## License
+### License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
 This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
 
-## Contribution
+### Contribution
 
 - Icons are from www.flaticon.com
 - Background  photos are from www.pexels.com
 - Made with ❤️  by Emenike Nathaniel
 
-## Questions?
+### Questions?
 
 Please feel free to contact me if you need any further information:
 
