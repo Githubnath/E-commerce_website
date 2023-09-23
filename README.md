@@ -1,5 +1,8 @@
 # NATH's ONLINE SHOPPING SITE (MERN).
 
+
+[Description](#description)
+
 This is a full-stack  e-commerce website built with the MERN (MongoDB, Express.js, React.js, Node.js) Stack.
  Key features include: user authentication, product listing, shopping cart and a secured  payment processing.
 
@@ -14,7 +17,24 @@ This is a full-stack  e-commerce website built with the MERN (MongoDB, Express.j
   <br>
 
 
+
+## Table of Contents
+
+- [Description](#description)
+- [Technology](#Technology)
+- [Installation](#installation)
+- [Learning Objectives](#Learning-Objectives)
+- [License](#license)
+- [Contribution](#contribution)
+- [Questions](#questions)
+- [File-Structure](#File-Structure)
+
+
+
 ### 🏁 Get Started
+
+# Installation
+
 
 1. **_Clone the repository_**
 
@@ -84,10 +104,10 @@ $ npm run start
 $ npm run build
 ```
 
-### 💻 Built With
+###  💻 Technology Used
 
 # Frontend Technologies
-
+ 
  -   React.js - for creating an interactive and responsive user interface
  -   React Router
  -   Redux (or React Context API)
@@ -103,7 +123,7 @@ $ npm run build
   -  JWT (JSON Web Tokens) -Authenticatication for secured user access
 
 
-### Learning Objectives
+### Learning-Objectives
 
 Gain proficiency in developing a full-stack application using the MERN stack.
     
@@ -119,9 +139,7 @@ Become expert in Deploying a MERN stack application to a hosting provider.
 
 
 
-
-
-## 📂 File Structure
+## 📂 File-Structure
 
 ```sh
 |-- README.md
@@ -211,8 +229,63 @@ Become expert in Deploying a MERN stack application to a hosting provider.
   <br>
   ![large screens](ss/large/login.pn)
 
-## 🎥 Demo Videos
 
-https://user-images.github
 
+<h3> Demo</h3>
+<hr>
+<ul>
+<li><b>Demo</b> - click <a href="https://youtu.be/kH6c6tEs4TU?si=k7DFJQ4V"><b>here </b></a>
+<ul>
+
+
+
+#### Preview
+
+
+
+- Home Page <br>
+  ![Screenshot](./client/src/assets/screenshots/1.pn)
+
+- Home Page <br>
+  ![Screenshot](./client/src/assets/screenshots/1.pg)
+
+- Login Page <br>
+  ![Screenshot](./client/src/assets/screenshots/2.pg)
+
+
+
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
+This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
+
+## Contribution
+
+- Icons are from www.flaticon.com
+- Background  photos are from www.pexels.com
+- Made with ❤️  by Emenike Nathaniel
+
+## Questions?
+
+Please feel free to contact me if you need any further information:
+
+- <h3>Email</h3>
+<hr>
+- <p align="left"><b>Mail</b> - <a href="mailto:emenikenathaniel55@gmail.com"><i>emenike.nathaniel@gmail.com</i></a></p>
+
+- [Github Profile](https://github.com/githubnath)
+
+
+<h3>Linkedin</h3>
+
+<ul>
+        <li><a href="https://www.linkedin.com/mwlite/in/nathaniel-emenike">Emenike Nathaniel</a> - Author's  Linkedin
+</ul>
+
+<h3>Twitter</h3>
+
+<ul>
+        <li><a href="https://www.twitter.com/EngrNath3">Emenike Nathaniel</a> - Author's  Twitter Handle
+</ul>
 
