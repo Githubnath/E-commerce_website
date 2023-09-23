@@ -25,7 +25,7 @@ git clone https://github.com/yourusername/online-shopping-site.git
 2. **_Navigate to the repository directory_**
 
 ```sh
-$ cd online-shopping-site.
+$ cd online-shopping-site
 ```
 
 ### 💻 Client
@@ -105,32 +105,21 @@ $ npm run build
 
 ### Learning Objectives
 
-By contributing to or working with this project, you can gain knowledge and experience in the following areas:
+Gain proficiency in developing a full-stack application using the MERN stack.
+    
+Understand and implement user authentication with both passport.js and JWT.
 
-    Building a full-stack web application.
-    Implementing user authentication and authorization.
-    Managing a database using MongoDB.
-    Developing a responsive and user-friendly frontend with React.
-    Integrating payment processing into an e-commerce website.
-    Implementing state management with Redux or React Context.
-    Writing clean and maintainable code.
-    Deploying a MERN stack application to a hosting provider.
+Learn how to design and develop a user friendly front-end interface with React.js.
 
+Gain proficiency in  Managing   a database using MongoDB and Mongoose.
 
+Practice Integrating payment processing into an e-commerce website.
 
+Become expert in Deploying a MERN stack application to a hosting provider.
 
 
 
 
-
-
-- **ReactJS**
-- **Redux**
-- **NodeJS**
-- **ExpressJS**
-- **MongoDB**
-- **TailwindCSS**
-- **Stripe**
 
 ## 📂 File Structure
 
