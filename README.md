@@ -117,7 +117,7 @@ $ npm run build
 
   -  Node.js - for server-side logic
   -  Express.js -for building the server and RESTfull APIs
-  -  MongoDB (or a cloud-based MongoDB service) - for  database management.
+  -  MongoDB (or a cloud-based MongoDB service) - for  database management
   -  Passport.js (for user authentication)
   -  JWT (JSON Web Tokens) -Authenticatication for secured user access.
 
