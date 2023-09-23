@@ -1,7 +1,7 @@
 {
-  "name": "E-Commerce_MERN_STACK",
+  "name": "online-shopping-site",
   "version": "1.0.0",
-  "description": "A E-commerce website.",
+  "description": "An E-commerce website.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lomsey41/MERN_Stack_Project_Hayroo_Ecommerce"
+    "url": "https://github.com/githubnath/online-shopping-site"
   },
-  "author": "Salome | https://lomsey41.github.io",
+  "author": "Salome | https://githubnath.github.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lomsey41/E-Commerce_MERN_STACK/issues"
+    "url": "https://github.com/githubnath/online-shopping-site/issues"
   },
-  "homepage": "https://github.com/hasan-py/E-Commerce_MERN_STACK#readme",
+  "homepage": "https://github.com/githubnath/online-shopping-site#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
