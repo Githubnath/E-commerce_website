@@ -21,7 +21,7 @@ This is a full-stack  e-commerce website built with the MERN (MongoDB, Express.j
 ## Table of Contents
 
 - [Description](#description)
-- [Technology](#Technology)
+- [Technologies-Used](#Technologies-Used)
 - [Installation](#installation)
 - [Learning Objectives](#Learning-Objectives)
 - [License](#license)
@@ -104,7 +104,7 @@ $ npm run start
 $ npm run build
 ```
 
-###  💻 Technology Used
+###  💻 Technologies-Used
 
 # Frontend Technologies
  
@@ -139,7 +139,7 @@ Become expert in Deploying a MERN stack application to a hosting provider.
 
 
 
-## 📂 File-Structure
+## 📂 File Structure
 
 ```sh
 |-- README.md
