@@ -196,21 +196,23 @@ Become expert in Deploying a MERN stack application to a hosting provider.
         `-- user.js
 ```
 
-## 📷 Screenshots
+###  📷 Preview
 
 - ### Large Screens
-  ![large screens](ss/large/home.png)
+  ![large screens](ss/large/hom)
   <br>
-  ![large screens](ss/large/productcategorie.png)
+  ![large screens](ss/large/productcategorie.pg)
   <br>
-  ![large screens](ss/large/singleproduct.png)
+  ![large screens](ss/large/singleproduc png)
   <br>
-  ![large screens](ss/large/shoppingcart.png)
+  ![large screens](ss/large/shoppingcart.pg)
   <br>
-  ![large screens](ss/large/signup.png)
+  ![large screens](ss/large/signup.ng)
   <br>
-  ![large screens](ss/large/login.png)
+  ![large screens](ss/large/login.pn)
 
 ## 🎥 Demo Videos
 
-https://user-images.githubusercontent.com/62210671/191046065-db8459d3-83ea-41a0-a898-abfd42432277.mp4
+https://user-images.github
+
+
