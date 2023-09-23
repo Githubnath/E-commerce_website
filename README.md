@@ -27,7 +27,6 @@ This is a full-stack  e-commerce website built with the MERN (MongoDB, Express.j
 - [License](#license)
 - [Contribution](#contribution)
 - [Questions](#questions)
-- [File Structure](#File-Structure)
 
 
 
@@ -137,82 +136,6 @@ Practice Integrating payment processing into an e-commerce website.
 
 Become expert in Deploying a MERN stack application to a hosting provider.
 
-
-
-## 📂 File Structure
-
-```sh
-|-- README.md
-|-- client
-|   |-- index.html
-|   |-- package-lock.json
-|   |-- package.json
-|   |-- postcss.config.cjs
-|   |-- public
-|   |-- src
-|   |   |-- App.jsx
-|   |   |-- assets
-|   |   |-- components
-|   |   |   |-- Carousel.jsx
-|   |   |   |-- CartProduct.jsx
-|   |   |   |-- Categorie.jsx
-|   |   |   |-- Categories.jsx
-|   |   |   |-- Filter.jsx
-|   |   |   |-- Newsletter.jsx
-|   |   |   |-- Product.jsx
-|   |   |   |-- Products.jsx
-|   |   |   `-- Title.jsx
-|   |   |-- index.css
-|   |   |-- layout
-|   |   |   |-- Announcement.jsx
-|   |   |   |-- Footer.jsx
-|   |   |   `-- Navbar.jsx
-|   |   |-- main.jsx
-|   |   |-- pages
-|   |   |   |-- Home.jsx
-|   |   |   |-- Login.jsx
-|   |   |   |-- Orders.jsx
-|   |   |   |-- ShoppingCart.jsx
-|   |   |   |-- ShoppingCategorie.jsx
-|   |   |   |-- Signup.jsx
-|   |   |   `-- SingleProduct.jsx
-|   |   |-- request-methods.js
-|   |   `-- store
-|   |       |-- auth-actions.js
-|   |       |-- auth-slice.js
-|   |       |-- cart-slice.js
-|   |       `-- index.js
-|   |-- tailwind.config.cjs
-|   `-- vite.config.js
-`-- server
-    |-- controllers
-    |   |-- auth.js
-    |   |-- cart.js
-    |   |-- order.js
-    |   |-- product.js
-    |   `-- user.js
-    |-- db
-    |   |-- cleanup-script.js
-    |   |-- fake-api-products.json
-    |   `-- products.json
-    |-- index.js
-    |-- middlewares
-    |   `-- verifyToken.js
-    |-- models
-    |   |-- Cart.js
-    |   |-- Order.js
-    |   |-- Product.js
-    |   `-- User.js
-    |-- package-lock.json
-    |-- package.json
-    `-- routes
-        |-- auth.js
-        |-- cart.js
-        |-- order.js
-        |-- product.js
-        |-- stripe.js
-        `-- user.js
-```
 
 
 <h3> Demo</h3>
