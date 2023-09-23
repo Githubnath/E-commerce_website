@@ -3,7 +3,15 @@
 This is a full-stack  e-commerce website built with the MERN (MongoDB, Express.js, React.js, Node.js) Stack.
  Key features include: user authentication, product listing, shopping cart and a secured  payment processing.
 
-E-Commerce MERN Stack
+
+### E-Commerce MERN Stack
+
+
+  ![E-commerce](https://github.com/Githubnath/online-shopping-site/blob/main/p/onlineshopping%20-%20Copy.jpg)
+  <br>
+
+  ![Online shopping](https://github.com/Githubnath/online-shopping-site/blob/main/p/online%20shop2%20-%20Copy.jpeg)
+  <br>
 
 
 
